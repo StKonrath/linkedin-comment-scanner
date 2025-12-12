@@ -47,7 +47,7 @@ A browser bookmarklet that automatically scrolls through your LinkedIn feed and 
 
 ### Option 1: Bookmarklet (Recommended)
 
-1. Copy the entire content of [`linkedin-comments-scanner-v0.6.0-bookmarklet.txt`](./linkedin-comments-scanner-v0.6.0-bookmarklet.txt)
+1. Copy the entire content of [`linkedin-comment-scanner-bookmarklet.txt`](./linkedin-comment-scanner-bookmarklet.txt)
 2. Create a new bookmark in your browser
 3. Paste the code as the bookmark URL
 4. Name it "LinkedIn Scanner" (or whatever you like)
