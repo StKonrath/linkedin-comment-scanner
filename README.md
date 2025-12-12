@@ -6,7 +6,7 @@ A browser bookmarklet that automatically scrolls through your LinkedIn feed and 
 
 ![Version](https://img.shields.io/badge/version-0.6.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Chrome%20%7C%20Firefox%20%7C%20Edge-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Chrome-lightgrey)
 
 ---
 
