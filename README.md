@@ -176,7 +176,7 @@ A: LinkedIn's feed is personalized and infinite. The scanner can only find posts
 
 If this tool saves you time, consider supporting its development:
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/YOUR_USERNAME)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/StKonrath)
 
 Your sponsorship helps:
 - ☕ Keep the tool free and open-source
